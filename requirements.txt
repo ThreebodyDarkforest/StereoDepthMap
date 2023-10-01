@@ -1,0 +1,4 @@
+numpy==1.26.0
+opencv_python==4.8.0.76
+pydantic==2.4.2
+scipy==1.11.3
